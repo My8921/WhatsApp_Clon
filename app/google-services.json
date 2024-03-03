@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "703603217359",
+    "firebase_url": "https://uset-400719-default-rtdb.firebaseio.com",
+    "project_id": "uset-400719",
+    "storage_bucket": "uset-400719.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703603217359:android:0658044e5450590e7c78ba",
+        "android_client_info": {
+          "package_name": "com.example.phone_authentication_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703603217359-fqf7sn7jt52d0mggahrofblokute99v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXRtvUbDFDsJcubJOZi11uln1LgKQuX54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703603217359-fqf7sn7jt52d0mggahrofblokute99v7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703603217359:android:a36c6a6e1187fb7b7c78ba",
+        "android_client_info": {
+          "package_name": "com.gaurav.whatsappclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703603217359-fqf7sn7jt52d0mggahrofblokute99v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXRtvUbDFDsJcubJOZi11uln1LgKQuX54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703603217359-fqf7sn7jt52d0mggahrofblokute99v7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703603217359:android:7b771d04ab58021a7c78ba",
+        "android_client_info": {
+          "package_name": "com.mianasad.chatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703603217359-fqf7sn7jt52d0mggahrofblokute99v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXRtvUbDFDsJcubJOZi11uln1LgKQuX54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703603217359-fqf7sn7jt52d0mggahrofblokute99v7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
